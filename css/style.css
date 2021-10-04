@@ -5,8 +5,5 @@
     font-family:sans-serif;
 }
 .extra-class{
-    max-width: 900px;
-}
-body{
-    background-color: lightcyan;
+    max-width: 800px;
 }
